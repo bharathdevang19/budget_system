@@ -1,7 +1,5 @@
 # Budget Management - README
 
-project is live at: https://budget-management-awin.vercel.app/
-
 ## Screenshots ofThis Project
 
 ### Authentication Page
